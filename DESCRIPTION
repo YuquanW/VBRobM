@@ -1,0 +1,23 @@
+Package: VBRobM
+Type: Package
+Title: Variational Bayesian robust mediation analysis
+Version: 1.0
+Date: 2024-01-18
+Authors@R: c(
+    person("Yuquan", "Wang", email ="21110700112@m.fudan.edu.cn", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-6656-7443")))
+Author: Yuquan Wang [aut, cre]
+Maintainer: Yuquan Wang <21110700112@m.fudan.edu.cn>
+Description: Applying variational Bayesian robust mediation analysis in linear mixed models.
+Encoding: UTF-8
+LazyData: true
+License: GPL (>= 3)
+Imports: Rcpp (>= 1.0.10), stats, lme4, graphics, RcppArmadillo, Matrix, mvtnorm, igraph, ggraph, ggplot2
+LinkingTo: Rcpp, RcppArmadillo
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.2.1
+Roxygen: list(markdown = TRUE)
