@@ -1,7 +1,7 @@
 # VBRobM
 Variational Bayesian robust mediation analysis. Paper link:
 
-Yu-Quan Wang, Da-Peng Shi, Christoph Scherber, Ben A. Woodcock, Yue-Qing Hu, Nian-Feng Wan. Understanding biodiversity effects on trophic interactions with a robust approach to path analysis. Cell Reports Sustainability, 2025. [https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(25)00058-8](https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(25)00058-8)
+Yu-Quan Wang, Da-Peng Shi, Christoph Scherber, Ben A. Woodcock, Yue-Qing Hu, Nian-Feng Wan. Understanding biodiversity effects on trophic interactions with a robust approach to path analysis. Cell Reports Sustainability, 2025. [https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(25)00058-8.](https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(25)00058-8)
 
 # Installation
 To install the package, run the following command in R
